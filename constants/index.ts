@@ -362,3 +362,21 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps []  =  [
     discount: ""
   }
 ];
+
+export const NAVDATA = [
+  {images:"/assets/Frame 28.png"},
+  {images:"/assets/Frame 30.png"},
+  {images:"/assets/Frame 31.png"},
+  {images:"/assets/Frame 32.png"},
+  {images:"/assets/Frame 33.png"},
+  {images:"/assets/Frame 34.png"},
+  {images:"/assets/Frame 35.png"},
+  {images:"/assets/Frame 36.png"},
+  {images:"/assets/Frame 37.png"},
+  {images:"/assets/Frame 38.png"},
+  {images:"/assets/Frame 39.png"},
+  {images:"/assets/Frame 40.png"},
+  {images:"/assets/Frame 41.png"},
+  {images:"/assets/Frame 42.png"},
+  {images:"/assets/Frame 43.png"},
+]
